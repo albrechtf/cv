@@ -1,0 +1,36 @@
+<fop version="1.0">
+	<renderers>
+		<renderer mime="application/pdf">
+			<fonts>
+				<font embed-url="./fonts/fa-5-free-400.otf">
+					<font-triplet name="FontAwesome Regular" style="normal" weight="normal"/>
+				</font>
+				<font embed-url="./fonts/fa-5-brands-400.otf">
+					<font-triplet name="FontAwesome Brands" style="normal" weight="normal"/>
+				</font>
+				<font embed-url="./fonts/fa-5-free-900.otf">
+					<font-triplet name="FontAwesome" style="normal" weight="normal"/>
+				</font>
+				<font embed-url="./fonts/Lato-Regular.ttf">
+					<font-triplet name="Lato" style="normal" weight="normal"/>
+				</font>
+				<font embed-url="./fonts/Lato-Italic.ttf">
+					<font-triplet name="Lato" style="italic" weight="normal"/>
+				</font>
+				<font embed-url="./fonts/Lato-Bold.ttf">
+					<font-triplet name="Lato" style="normal" weight="bold"/>
+				</font>
+				<font embed-url="./fonts/Lato-BoldItalic.ttf">
+					<font-triplet name="Lato" style="italic" weight="bold"/>
+				</font>
+				<font embed-url="./fonts/Lato-Black.ttf">
+					<font-triplet name="Lato" style="normal" weight="900"/>
+				</font>
+				<font embed-url="./fonts/Lato-BlackItalic.ttf">
+					<font-triplet name="Lato" style="italic" weight="900"/>
+				</font>
+			</fonts>
+		</renderer>
+	</renderers>
+
+</fop>

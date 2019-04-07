@@ -1,0 +1,168 @@
+{
+	"basics": {
+		"name": "Richard Smith",
+		"label": "Senior Java Developer",
+		"image": "",
+		"email": "richard.smith@example.com",
+		"phone": "(912) 555 0172",
+		"url": "",
+		"summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+		"location": {
+	      "address": "2712 Broadway St",
+	      "postalCode": "CA 94115",
+	      "city": "San Francisco",
+	      "countryCode": "US",
+	      "region": "California"
+		},
+		"profiles": [
+			{
+				"network": "StackOverflow",
+				"username": "22656",
+				"url": "https://stackoverflow.com/users/22656"
+			},
+			{
+				"network": "GitHub",
+				"username": "Wandmalfarbe",
+				"url": "https://github.com/Wandmalfarbe"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Google LLC",
+			"location": "Mountain View, CA",
+			"description": "Google",
+			"position": "Team Lead Search Engine Development",
+			"url": "https://www.google.com/",
+			"startDate": "2017-06-01",
+			"endDate": "",
+			"summary": "Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. ",
+			"highlights": [
+				"Assess infrastructure on a regular basis to ensure it continues to meet necessary demands",
+				"Manage daily operations of the IT department",
+				"Develop new strategies and IT procedures to increase efficiency, enhance workflow and improve customer satisfaction",
+				"Coordinate the needs of in-house IT experts and remote employees, vendors and contractors"
+			],
+			"technologies": [
+				"Java",
+				"Spring Boot",
+				"Angular",
+				"Docker",
+				"OpenShift",
+				"Microsoft Azure",
+				"Java EE",
+				"Oracle DB",
+				"Microsoft SQL Server",
+				"git",
+				"Teamscale",
+				"SonarQube",
+				"JIRA"
+			]
+		},
+		{
+			"name": "Apple Inc.",
+			"location": "Cupertino, CA",
+			"description": "Trash Builder",
+			"position": "Android App Developer",
+			"url": "http://www.apple.com/",
+			"startDate": "2014-09-01",
+			"endDate": "2017-05-31",
+			"summary": "Explaining Apple how to develop good apps for good OSes.",
+			"highlights": [
+				"Manage and oversee departmental quotas",
+				"Manage daily operations of the IT department",
+				"Develop new strategies and IT procedures to increase efficiency, enhance workflow and improve customer satisfaction"
+			],
+			"technologies": [
+				"Java",
+				"Oracle DB",
+				"JMS",
+				"JSF",
+				"JavaScript",
+				"jQuery",
+				"Microsoft Azure",
+				"Jenkins",
+				"git",
+				"GitHub",
+				"Apache Maven",
+				"SonarQube",
+				"JIRA"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University of California",
+			"area": "Oakland, CA",
+			"studyType": "Bachelor of Computer Science",
+			"startDate": "2002-10-01",
+			"endDate": "2007-04-01",
+			"gpa": "4.0",
+			"courses": [
+			]
+		}
+	],
+	"skills": [
+		{
+			"name": "Smalltalk",
+			"level": "Master",
+			"rating": 95
+		},
+		{
+			"name": "Drinking Coffee",
+			"level": "Advanced",
+			"rating": 82
+		},
+		{
+			"name": "Sending funny kitten pics",
+			"level": "Master",
+			"rating": 90
+		},
+		{
+			"name": "Documentation",
+			"level": "Beginner",
+			"rating": 10
+		},
+		{
+			"name": "Testing",
+			"level": "Novice",
+			"rating": 5
+		},
+		{
+			"name": "Blaming others",
+			"level": "Advanced",
+			"rating": 80
+		},
+		{
+			"name": "Driving fast",
+			"level": "Expert",
+			"rating": 60
+		},
+		{
+			"name": "Sleeping",
+			"level": "Master",
+			"rating": 100
+		}
+	],
+	"certificates": [
+		{
+			"name": "iSAQB® Certified Professional for Software Architecture Foundation",
+			"date": "2017-10-01",
+			"issuer": "International Software Architecture Qualification Board e.V."
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Native Speaker"
+		},
+		{
+			"language": "German",
+			"fluency": "Only when drunk"
+		},
+		{
+			"language": "French",
+			"fluency": "Heard about it"
+		}
+	]
+}
