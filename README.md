@@ -40,3 +40,9 @@ To learn about all program options, just run
 I created this software and the stylesheet for my own CV. It may be completely useless to anyone else. If you are missing something, feel free to fork the repository and change everything you like. If you think that your changes could be useful for others, I will be happy to get and review Pull Requests.
 
 But, unfortunately, most likely I will not be able to handle any bug reports or feature requests.
+
+## Example
+
+Yeah, why cloning and building and all this stuff? Watch the example CV right here:
+
+![Example CV](https://github.com/albrechtf/cv/raw/gh-pages/images/example-cv.png)
